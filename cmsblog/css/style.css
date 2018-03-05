@@ -1,0 +1,21 @@
+.pager li .active_link {
+    background-color: #5f7fd4;
+    color: #fff;
+}
+
+.pager li .active_link:hover {
+    background-color: #3a67e0;
+    color: #fff;
+}
+
+.register-form {
+    margin-bottom: 150px !important;
+}
+
+.btn-custom {
+    background-color: #ddd;
+}
+
+.btn-custom:hover {
+    background-color: #ccc;
+}

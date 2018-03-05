@@ -1,0 +1,6 @@
+Github Details: 
+Usermame: Abdullahfasih
+Password: THevoice232
+-----------------------------
+
+1. Unique username and email functionality done. Admin approval and registration done.

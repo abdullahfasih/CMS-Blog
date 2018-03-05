@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/xampp/htdocs/project/cmsblog/admin/views/header.php</file>
+            <file>file:/E:/xampp/htdocs/project/cmsblog/editProfile.php</file>
+            <file>file:/E:/xampp/htdocs/project/cmsblog/models/User.php</file>
+            <file>file:/E:/xampp/htdocs/project/cmsblog/models/DBConnection.php</file>
+            <file>file:/E:/xampp/htdocs/project/cmsblog/profile.php</file>
+            <file>file:/E:/xampp/htdocs/project/cmsblog/views/header.php</file>
+            <file>file:/E:/xampp/htdocs/project/cmsblog/views/nav.php</file>
+            <file>file:/E:/xampp/htdocs/project/cmsblog/process/processProfileImage.php</file>
+            <file>file:/E:/xampp/htdocs/project/cmsblog/admin/process/processUser.php</file>
+            <file>file:/E:/xampp/htdocs/project/cmsblog/process/processLogin.php</file>
+        </group>
+    </open-files>
+</project-private>
